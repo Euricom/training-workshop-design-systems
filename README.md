@@ -1,5 +1,35 @@
 # training-workshop-design-systems
 
+## Modern UI Libraries
+
+Full featured UI libraries
+
+* https://mantine.dev/ (react)
+* https://mui.com/ (react)
+* [PrimeReact](https://primereact.org/) - https://primevue.org/ - https://primeng.org/
+
+TailWindCSS:
+* https://daisyui.com/
+* https://flowbite.com
+* https://sailboatui.com/
+
+Hybrid (headless + tailwind copy/past):
+
+* https://ui.shadcn.com
+* https://flowbite.com
+* https://tailwindui.com
+
+Headless UI:
+
+* https://headlessui.com/
+* https://www.radix-ui.com/
+
+Specialized (headless)
+* https://tanstack.com/table/v8
+* https://tanstack.com/virtual/v3
+* https://github.com/TanStack/ranger
+* https://github.com/rehookify/datepicker
+
 ## ChatGPT
 
 > Prompt: `Wat zijn de voor- en nadelen van een eigen component library om Frontend te ontwikkelen?`:
